@@ -1,6 +1,5 @@
 -----------------------------------
 -- Metatron Torment
--- Hand-to-Hand Skill level: 5 Description: Delivers a threefold attack. Damage varies wit weapon skill
 -- Great Axe Weapon Skill
 -- Skill Level: N/A
 -- Lowers target's defense. Additional effect: temporarily lowers damage taken from enemies.

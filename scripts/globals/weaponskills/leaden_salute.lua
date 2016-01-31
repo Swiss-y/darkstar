@@ -1,6 +1,6 @@
 -----------------------------------
 -- Leaden Salute
--- Sword weapon skill
+-- Marksmanship SKill
 -- Skill Level: N/A
 -- Delivers a Twofold attack. Damage varies with TP. Death Penalty: Aftermath effect varies with TP.
 -- Available only after completing the Unlocking a Myth (Corsair) quest.
